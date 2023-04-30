@@ -3,12 +3,12 @@ package main
 import (
 	"fmt"
 
-	"github.com/Napon/cinema/movie"
-	"github.com/Napon/cinema/ticket"
+	"github.com/Napontan/cinema/movie"
+	"github.com/Napontan/cinema/ticket"
 )
 
 // "github.com/Napon/cinema/movie" เป็น การ import file เข้ามาใช้
-func init() {
+func init() { // ไม่ต้องเรียกก็บังคับใช้อยู่แล้ว function  พิเศษ
 	fmt.Println("init: main")
 }
 func main() {
