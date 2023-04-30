@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/Napontan/cinema/movie"
-	"github.com/Napontan/cinema/ticket"
+	"github.com/Napontan/CINEMA/movie"
+	"github.com/Napontan/CINEMA/ticket"
 )
 
 // "github.com/Napon/cinema/movie" เป็น การ import file เข้ามาใช้
